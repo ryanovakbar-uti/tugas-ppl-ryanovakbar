@@ -1,8 +1,8 @@
 1. Sistem apa yang anda kembangkan pada mata kuliah ini?
-Jawab:
+Jawab: Sistem Manajemen Konten, contohnya seperti Blogger dan Wordpress
 
 2. Apa tujuan anda mengembangkan sistem tersebut?
-Jawab:
+Jawab: Untuk memfasilitasi dan menyederhanakan proses pengelolaan konten digital. Sistem ini dirancang untuk membantu individu atau tim dalam membuat, mengatur, mengedit, mengelola, dan mempublikasikan konten secara efisien di berbagai platform digital.
 
 3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
-Jawab:
+Jawab: Menghasilkan sistem manajemen konten yang mudah digunakan oleh berbagai pengguna, termasuk mereka yang tidak memiliki latar belakang teknis. Antarmuka yang intuitif dan fitur-fitur yang mudah dipahami dapat membantu pengguna dalam mengelola konten mereka tanpa kesulitan dan dapat memberikan fleksibilitas dalam mendesain tata letak, menambahkan fitur kustom, dan menyesuaikan pengalaman pengguna.
